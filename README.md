@@ -8,6 +8,9 @@ pip install twitch-python
 pip install urllib3
 ```
 
-Create a twitch developer account to get client id.
+Create a twitch developer account to get your client id and client secret.
 
+Create a Telegram account.
 Refer to callmebot troubleshooting here: https://www.callmebot.com/blog/telegram-text-messages/
+
+You can run this locally or any web hosting you prefer, enjoy :)
