@@ -1,7 +1,7 @@
 import time
 import twitch
 import urllib.request
-helix = twitch.Helix('<CLIENT_ID>', 'CLIENT_SECRET')
+helix = twitch.Helix('<CLIENT_ID>', '<CLIENT_SECRET>')
 while(True):
     broadcasterType = helix.user('<BROADCASTER_NAME>').broadcaster_type
     if broadcasterType == 'affiliate' or broadcasterType == 'partner':
