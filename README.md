@@ -14,3 +14,5 @@ Create a Telegram account.
 Refer to callmebot troubleshooting here: https://www.callmebot.com/blog/telegram-text-messages/
 
 You can run this locally or any web hosting service you prefer, enjoy :)
+
+Thanks to PetterKraabol https://pypi.org/user/PetterKraabol/ for making this Twitch module for Python very easy to use 👍
