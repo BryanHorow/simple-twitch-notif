@@ -13,4 +13,4 @@ Create a twitch developer account to get your client id and client secret.
 Create a Telegram account.
 Refer to callmebot troubleshooting here: https://www.callmebot.com/blog/telegram-text-messages/
 
-You can run this locally or any web hosting you prefer, enjoy :)
+You can run this locally or any web hosting service you prefer, enjoy :)
